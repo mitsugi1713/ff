@@ -1,0 +1,6 @@
+---
+ansible_user: my-user
+ansible_password: c7Ywd5L6YR
+ansible_become_user: root
+ansible_become_password: c7Ywd5L6YR
+ansible_python_interpreter: /usr/bin/python3
